@@ -119,148 +119,12 @@ pre[class*="language-"] {
 	cursor: help;
 }
 
-<<<<<<< HEAD
-
-.menu2{
-overflow:auto;
-padding:10px;
-margin:0 auto;
-margin-top:30px;
-height:550px;
-width:750px; 
-background:#a77cfe;
-}
-article
-=======
 /*halaman awal*/
 body
->>>>>>> f4262cf5903caf6eabb70777916dbe0db07246ca
 {
 background-image:url(background//troll.png);
 background-size:cover;
 cursor:default;
-<<<<<<< HEAD
-}
-.div1{
-
-font-size:30px;
-width:500px;
-padding:10px;
-color:red;
-font-weight:bold;
-}
-.div2 a{
-text-decoration:none;
-color:black;
-}
-.div2{
-width:600px;
-margin-top:50px;
-font-size:70px;
-padding:10px;
-margin-left:120px;
-font-family:Rockwell;
-}
-a{
-text-decoration:none;
-}
-.div3{
-background:white;
-color:black;
-font-weight:bold;
-font-size:40px;
-padding:5px;
-line-height:50px;
-width:200px;
-height:50px;
-margin-left:100px;
-margin-top:50px;
-float:left;
-}
-
-
-/*level 2*/
-.menu3{
-overflow:auto;
-padding:10px;
-margin:0 auto;
-margin-top:30px;
-height:550px;
-width:750px; 
-background-image:url(background//notnada.jpg);
-background-size:cover;
-}
-body
-{
-background-image:url(background//troll.png);
-background-size:cover;
-cursor:default;
-}
-.div4{
-
-font-size:30px;
-width:500px;
-padding:10px;
-color:red;
-font-weight:bold;
-}
-.div5 a{
-text-decoration:none;
-color:white;
-}
-.div5{
-width:600px;
-margin-top5:0px;
-font-size:50px;
-padding:10px;
-margin-left:120px;
-font-family:Rockwell;
-color:blue;
-}
-.div6 a{
-text-decoration:none;
-color:white;
-}
-.div6{
-
-color:white;
-font-weight:bold;
-font-size:80px;
-padding:10px;
-line-height:50px;
-margin-left:50px;
-width:200px;
-
-height:50px;
-margin-left:100px;
-margin-top:50px;
-float:left;
-}
-
-
-
-
-section {
-	margin: 0 !important;
-	padding: 0 !important;
-	top: 0 !important;
-	bottom: 0 !important;
-	left: 0 !important;
-	right: 0 !important;
-	background-color: transparent !important;
-}
-body, article, .bespoke-theme-cube-slide-parent, .bespoke-scale-parent, section {
-	width: 100% !important;
-	height: 100vh !important;
-	margin: 0 !important;
-	padding: 0 !important;
-}
-.all-menu  {
-	margin: 10px auto;
-	height: calc( 100vh - 20px);
-	width: 750px;
-}
-=======
 	
 }
 .kotak{
@@ -385,4 +249,3 @@ float:right;
 
 
 
->>>>>>> f4262cf5903caf6eabb70777916dbe0db07246ca
