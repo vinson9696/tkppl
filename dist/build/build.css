@@ -232,6 +232,279 @@ float:left;
 }
 
 
+/*level 3 */
+.menu4{
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:#a77cfe;
+overflow:auto;
+}
+
+body
+{
+background-image:url(background//troll.png);
+background-size:cover;
+cursor:default;
+}
+.img1{
+float:left;
+}
+.div7{
+
+font-size:30px;
+width:600px;
+
+padding:10px;
+color:red;
+font-weight:bold;
+cursor:default;
+}
+.soal{
+font-size:40px;
+cursor:pointer;
+}
+.soal2 a{
+color:black;
+cursor:default;
+text-decoration:none;
+}
+.soal2{
+color:black;
+height:150px;	
+float:left;
+font-size:45px;
+margin-left:60px;
+font-family:rockwell;
+cursor:default;
+width:400px;
+margin-bottom:75px;
+}
+.div9{
+background:white;
+color:black;
+font-weight:bold;
+font-size:40px;
+padding:10px;
+line-height:50px;
+margin-left:50px;
+width:200px;
+
+height:50px;
+margin-left:100px;
+margin-top:40px;
+float:left;
+}
+
+
+/*level 4*/
+.menu5{
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:black;
+overflow: auto; 
+}
+body
+{
+background-image:url(background//troll.png);
+background-size:cover;
+cursor:default;
+}
+.div10{
+
+font-size:30px;
+width:200px;
+padding:10px;
+color:red;
+font-weight:bold;
+float:left;
+cursor:default;
+}
+.div11{
+float:right;
+background:white;
+text-align:center; 
+font-size:30px;
+width:300px;
+font-family:Old English Text MT;
+color:red;
+font-weight:bold;
+cursor:default;
+}
+.temukan{
+width:500px;
+margin:0 auto;
+font-size:50px;
+color:orange;
+font-family:Old English Text MT;
+cursor:default;
+}
+.d1{
+color:black;
+font-size:75px;
+margin-top:300px;
+margin-left:470px;
+transform:rotate(350deg);
+
+}
+.d1 a:hover{
+cursor:pointer;
+color:red;
+}
+.d2{
+color:black;
+font-size:50px;
+margin-top:-350px;
+width:175px;
+
+transform:rotate(20deg);
+}
+.d2 a:hover{
+color:red;
+cursor:pointer;
+}
+.d1 a,.d2 a ,.d3 a,.d4 a,.d5 a,.d6 a,.d7 a{
+text-decoration:none;
+color:black;
+}
+.d3{
+
+font-size:50px;
+width:174px;
+
+margin-left:400px;
+}
+.d3 a:hover{
+color:red;
+cursor:pointer;
+}
+.d4{
+
+font-size:60px;
+transform:rotate(50deg);
+margin-top:140px;
+
+width:150px;
+margin-left:30px;
+
+}
+.d6{
+
+font-size:35px;
+width:150px;
+margin-left:500px;
+margin-top:-200px;
+}
+.d5{
+
+font-size:120px;
+width:85px;
+margin-top:-275px;
+margin-left:150px;
+transform:rotate(25deg);
+}
+.d4 a:hover{
+cursor:pointer;
+color:red;
+}
+.d5 a:hover{
+cursor:pointer;
+color:red;
+}
+.d6 a:hover{
+cursor:pointer;
+color:red;
+
+}
+.d7{
+font-size:20px;
+width:100px;
+margin-top:-100px;
+margin-left:600px;	
+font-family:Old English Text MT;
+
+}
+.d7 a:hover{
+cursor:pointer;
+color:green;
+}
+
+
+
+
+/*level 5*/
+.menu6{
+overflow: auto;
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:#ffffff;
+}
+body
+{
+background-image:url(background//troll.png);
+background-size:cover;
+cursor:default;
+}
+.div12{
+
+font-size:30px;
+width:500px;
+padding:10px;
+color:red;
+font-weight:bold;
+}
+.soal3{
+text-align:center;
+font-size:60px;
+font-weight:bold;
+margin:0 auto;
+width:500px;
+color:red;
+font-family:stencil;
+}
+a{
+text-decoration:none;
+color:white;
+font-family:Segoe UI Black;
+font-weight:bold;
+}
+.pilihan{
+font-size:30px;
+width:300px;
+height:100px;
+float:left;
+background:gray;
+margin-top:10px;
+margin-left:50px;
+margin-bottom:20px;
+font-size:60px;
+
+text-align:center;
+line-height:100px;
+}
+
+.pilihan1{
+font-size:30px;
+width:300px;
+height:100px;
+float:left;
+background:gray;
+margin-top:10px;
+margin-left:50px;
+font-size:60px;
+
+text-align:center;
+line-height:100px;
+}
+
 
 
 section {
