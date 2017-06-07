@@ -527,3 +527,82 @@ body, article, .bespoke-theme-cube-slide-parent, .bespoke-scale-parent, section 
 	height: calc( 100vh - 20px);
 	width: 750px;
 }
+/*level 8*/
+.menu7{
+overflow: auto;
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:#ffffff;
+}
+body
+{
+background-image:url(background//troll.png);
+background-size:cover;
+cursor:default;
+}
+.div13{
+
+font-size:30px;
+width:500px;
+padding:10px;
+color:red;
+font-weight:bold;
+}
+.soal4{
+text-align:center;
+font-size:60px;
+font-weight:bold;
+margin:0 auto;
+width:500px;
+color:red;
+font-family:stencil;
+}
+a{
+text-decoration:none;
+color:white;
+font-family:Segoe UI Black;
+font-weight:bold;
+}
+.pilihan2{
+font-size:30px;
+width:300px;
+height:100px;
+float:left;
+background:gray;
+margin-top:10px;
+margin-left:50px;
+margin-bottom:20px;
+font-size:60px;
+
+text-align:center;
+line-height:100px;
+}
+
+.pilihan3{
+font-size:30px;
+width:300px;
+height:100px;
+float:left;
+background:gray;
+margin-top:10px;
+margin-left:50px;
+font-size:60px;
+
+text-align:center;
+line-height:100px;
+}
+.div14{
+float:right;
+background:white;
+text-align:center; 
+font-size:30px;
+width:300px;
+font-family:Old English Text MT;
+color:red;
+font-weight:bold;
+cursor:default;
+margin-top:-45px;
+}
