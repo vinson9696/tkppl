@@ -2154,3 +2154,198 @@ background:magenta;
 background:blue;
 }
 
+/*level 30*/
+body{
+cursor:default;
+}
+
+.menu28{
+
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:black;
+}
+
+.div41{
+
+font-size:30px;
+width:500px;
+padding:10px;
+color:white;
+font-weight:bold;
+}
+
+.soal22{
+width:500px;
+margin-left:110px;
+height:50px;
+text-align:center;
+font-size:40px;
+line-height:50px;
+color:white;
+font-variant:small-caps;
+}
+a{
+font-size:40px;
+text-decoration:none;
+color:rgba(0,0,0,0.5);
+font-weight:bold;
+text-align:center;
+}
+a:hover{
+color:white;
+}
+.j25,.j26,.j27,.j28,.j29,.j30{
+width:200px;
+height:50px;
+font-size:40px;
+border:1px solid black;
+margin-left:50px;
+margin-top:30px;
+}	
+
+.j25,.j27,.j29{
+float:left;
+margin-left:125px;
+}
+.j26,.j28,.j30{
+float:right;
+margin-right:150px;
+}
+.j30{
+background:green;
+}
+.j29{
+background:orange;
+}
+.j25{
+background:red;
+}
+.j26{
+background:yellow;
+}
+.j28{
+background:magenta;
+}
+.j27{
+background:blue;
+}
+
+/*game over*/
+
+body
+{
+cursor:default;
+background-image:url(background//troll.png);
+background-size:cover;
+}
+
+.menu29{
+
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background-image:url(background//fatok.jpg);
+background-size:cover;
+
+}
+.kosong1{
+height:400px;
+width:750px;
+}
+.penampung{
+width:750px;
+height:100px;
+}
+.a{
+text-decoration:none;
+color:white;
+}
+.s8 ,.s10{
+height:80px;
+width:250px;
+font-size:30px;
+line-height:80px;
+cursor:pointer;
+}	
+.s8{	
+
+margin-left:100px;
+float:left;
+text-align:center;
+background:black;
+color:white;
+}
+.s10{
+
+margin-right:100px;
+float:right;
+text-align:center;
+background:black;
+color:white;
+}
+
+.s9{
+height:150px;	
+float:right;
+line-height:150px;
+color:black;
+}
+h1{
+color:white;
+font-size:50px;
+text-align:center;
+padding:10px;
+margin-bottom:100px;
+}
+
+
+/*selamat*/
+body
+{
+background-image:url(background//ace.jpg);
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+cursor:default;
+font-weight:bold;
+}
+.container{
+background-image:url(background//ace.jpg);
+margin:0 auto;
+width:700px;
+padding:10px;
+margin-top:50px;
+height:600px;
+}
+h1{
+text-align:center;
+font-size:40px;
+font-variant:small-caps;
+color:red;	
+}
+
+section {
+	margin: 0 !important;
+	padding: 0 !important;
+	top: 0 !important;
+	bottom: 0 !important;
+	left: 0 !important;
+	right: 0 !important;
+	background-color: transparent !important;
+}
+body, article, .bespoke-theme-cube-slide-parent, .bespoke-scale-parent, section {
+	width: 100% !important;
+	height: 100vh !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.all-menu  {
+	margin: 10px auto;
+	height: calc( 100vh - 20px);
+	width: 750px;
+}
