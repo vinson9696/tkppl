@@ -2349,3 +2349,116 @@ body, article, .bespoke-theme-cube-slide-parent, .bespoke-scale-parent, section 
 	height: calc( 100vh - 20px);
 	width: 750px;
 }
+
+/*Halaman Depan */
+.tulisan1{
+
+font-size:150px;
+color:red;
+font-family:aharoni;
+}
+.menu2de{
+overflow:auto;
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background-image:url(background//ace.jpg);
+}
+.tulisan2{
+padding:20px;
+font-size:150px;
+color:orange;
+font-family:aharoni;
+margin-left:100px;
+margin-top:-50px;
+}
+.tulisan3 a{
+text-decoration:none;
+}
+.tulisan3 a{
+
+font-size:150px;
+color:white;
+font-family:aharoni;
+}
+.tulisan3 a:hover{
+cursor:pointer;
+color:yellow;
+}
+a{
+text-decoration:none;
+color:white;
+}
+.menukecil{
+width:200px;
+margin-left:100px;
+line-height:20px;
+text-align:center;
+background:brown;
+padding:20px;
+font-size:25px;
+
+
+font-family:aharoni;
+}
+.menukecil:hover{
+transform: rotate(-10deg);
+width:210px;
+}
+.img1{
+float:right;
+
+}
+/* AturanMain1 */
+.tempat{
+font-size:25px;
+text-align:center;
+padding:10px;
+font-family:calibri;
+font-weight:bold;
+}
+.menuback
+{
+margin-left:-5px;
+float:left;
+background:brown;
+margin-top:50px;
+}
+.menuback1
+{
+float:right;
+background:brown;
+margin-top:50px;
+}
+.menuback a
+{text-decoration:none;
+}
+.menuback1 a
+{text-decoration:none;
+}
+.img1trolo{
+height:125px;
+width:105px;
+float:left;
+margin-left:15px;
+margin-top:10px;
+}
+.menu200{
+overflow:auto;
+padding:10px;
+margin:0 auto;
+margin-top:30px;
+height:550px;
+width:750px; 
+background:white;
+}
+
+.tempat{
+font-size:25px;
+text-align:center;
+padding:10px;
+font-family:calibri;
+font-weight:bold;
+}
